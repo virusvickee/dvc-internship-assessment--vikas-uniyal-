@@ -105,7 +105,7 @@ A single-file HTML app using vanilla JS (no frameworks), `async/await` with `Pro
 ## 🌐 Live Demos
 
 - Q1: [Live Demo — Product Card](https://sage-chimera-139106.netlify.app/)
-- Q3: *(GitHub Pages link)*
+- Q3: [Live Demo — Weather Dashboard](https://gleaming-jelly-03d890.netlify.app/)
 
 ---
 
