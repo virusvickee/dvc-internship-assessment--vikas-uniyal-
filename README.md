@@ -104,7 +104,7 @@ A single-file HTML app using vanilla JS (no frameworks), `async/await` with `Pro
 
 ## 🌐 Live Demos
 
-- Q1: *(GitHub Pages link)*
+- Q1: [Live Demo — Product Card](https://sage-chimera-139106.netlify.app/)
 - Q3: *(GitHub Pages link)*
 
 ---
